@@ -1,0 +1,19 @@
+{
+    "name": "stephane888/countries",
+    "description": "Listes des pays",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "stephane888",
+            "email": "kksasteph888@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+"autoload" : {
+		"psr-4" : {
+			"Stephane888\\Countries\\" : "Src/"
+		}
+	}
+}
